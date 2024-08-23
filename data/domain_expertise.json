@@ -1,0 +1,8 @@
+{
+    "Marketing": ["LinkedIn Content", "Blog Post", "Instagram"],
+    "Project Management": ["Email Reply", "Project Plan", "Project WBS"],
+    "Development": ["Python", "DotNet", "NodeJS", "Flutter", "React Native", "Swift iOS", "Android Kotlin", "Logic"],
+    "Business Analysis": ["User Stories", "Customer Journey Mapping", "Research"],
+    "UX Analysis": ["User Personas", "Brand Guidelines", "Usability Testing", "Content Copy"],
+    "Testing": ["Test Cases", "Unit Tests", "Automation Testing"]
+}

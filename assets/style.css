@@ -1,0 +1,20 @@
+/* Example CSS to style the Streamlit application */
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #2c3e50;
+}
+
+.stButton > button {
+    background-color: #3498db;
+    color: white;
+    border-radius: 5px;
+    border: none;
+}
+
+.stTextInput > div > input {
+    border: 2px solid #3498db;
+    border-radius: 5px;
+}
